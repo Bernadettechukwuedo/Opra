@@ -137,4 +137,7 @@ p{
   align-items: center;
   
 }
-  
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
